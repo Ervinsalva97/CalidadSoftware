@@ -1,2 +1,6 @@
 # CalidadSoftware
-Grupo de clase
+Grupo de clase Integrantes:
+  - DEL RIO CHILLCCE, ANGIE MAITE
+  - PALMA UCANCIAL, RICARDO
+  - PANTOJA ANTAY, WILLIANS SAMAEL
+  - SALAZAR VALENZUELA, ERICK MELVIN

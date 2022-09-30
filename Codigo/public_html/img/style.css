@@ -1,0 +1,14 @@
+.contenedor{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.alerta {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
